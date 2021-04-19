@@ -117,4 +117,4 @@ deleteButton.addEventListener('click', button =>{
     
     calculator.delete();
 })
-   console.log('added to git')
+   
